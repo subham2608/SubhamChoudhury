@@ -1,4 +1,4 @@
-### Hey! nice to see you. I'm Subham Choudhury <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey!not nice to see you. I'm Subham Choudhury <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  <br>
  <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
